@@ -1,5 +1,5 @@
 {
-    "name": "iexbase/tron-api",
+    "name": "exorcist-guo/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
@@ -20,7 +20,7 @@
 
     "require": {
         "php": ">=8.0",
-        "comely-io/data-types": "^1.0",
+        "exorcist-guo/data-types": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
         "iexbase/web3.php": "^2.0.1",
         "kornrunner/secp256k1": "^0.2",
